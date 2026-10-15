@@ -51,9 +51,9 @@
 
 <div align="center">
 
-![Profile stats](https://github-stats-extended.vercel.app/api?username=dev3Masud&show_icons=true&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117&border_color=30363d)
-![Streak stats](https://streak-stats.demolab.com/?user=dev3Masud&background=0d1117&border=30363d&stroke=30363d&ring=6366f1&fire=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=8b949e&dates=8b949e)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dev3Masud&layout=compact&title_color=6366f1&text_color=ffffff&bg_color=0d1117&border_color=30363d)
+![Profile stats](https://github-stats-extended.vercel.app/api?username=AbdullahProBD&show_icons=true&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117&border_color=30363d)
+![Streak stats](https://streak-stats.demolab.com/?user=AbdullahProBD&background=0d1117&border=30363d&stroke=30363d&ring=6366f1&fire=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=8b949e&dates=8b949e)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahProBD&layout=compact&title_color=6366f1&text_color=ffffff&bg_color=0d1117&border_color=30363d)
 
 </div>
 
@@ -63,13 +63,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev3Masud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev3masud.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahProBD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullahprobd.github.io/)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>⚡ Built with passion by dev3Masud &nbsp;•&nbsp; © 2026</sub>
+<sub>⚡ Built with passion by AbdullahProBD &nbsp;•&nbsp; © 2026</sub>
 </div>
