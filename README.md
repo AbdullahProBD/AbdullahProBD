@@ -79,12 +79,15 @@ I am a passionate AI engineering student and backend-focused developer with a st
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahProBD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahProBD&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahProBD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500" />
+<img src="https://img.shields.io/github/stars/AbdullahProBD?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/followers/AbdullahProBD?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Top%20Languages-Python%20%2B%20FastAPI-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Top Languages" />
 
 </div>
+
+<p align="center">
+  <strong>Primary stack:</strong> Python • FastAPI • Docker • Azure • GitHub Actions
+</p>
 
 ---
 
