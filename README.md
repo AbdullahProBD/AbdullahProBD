@@ -1,75 +1,124 @@
 <div align="center">
 
-# Hi, I'm Abdullah Al Masud 👋
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Abdullah+Al+Masud;AI+Engineering+Student;Backend+Developer;Automation+Enthusiast;Building+smart+systems+with+code" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
-### AI Engineering Student · Backend Developer · Automation Enthusiast
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%2B%20Python-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration" />
+</p>
 
-> Building intelligent systems at the intersection of AI, performance, and developer experience.
+<h1>Abdullah Al Masud</h1>
 
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=false&vCenter=true&width=700&lines=AI+Engineering+Student;Python+%2B+FastAPI+Developer;LangChain+%26+LLM+Integrations;Shipping+production-ready+AI+tools)
+<p>
+  <a href="https://abdullahprobd.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/AbdullahProBD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🎓 Currently: GitHub Student Developer Pack (April 2026 Batch)
-- 💻 Focus: Python automation, FastAPI backends, AI/LLM integrations
-- 🤗 Also active on Hugging Face — models, Spaces & datasets
-- ☁️ Comfortable with Azure, Vercel, and Docker-based deployments
-- ⚡ Goal: ship 10+ production-ready AI tools before year-end
-- 🤝 Open to collaboration on interesting AI/automation projects
+I am a passionate AI engineering student and backend-focused developer with a strong interest in building reliable, scalable, and intelligent systems. I enjoy turning ideas into production-ready tools using Python, automation workflows, and modern cloud-based deployment patterns.
+
+- 🎓 Currently exploring advanced AI workflows and developer tooling
+- 💻 Specializing in Python, FastAPI, backend architecture, and automation
+- ⚙️ Building practical AI integrations and productivity-driven systems
+- ☁️ Comfortable with Docker, Azure, Vercel, and cloud deployment workflows
+- 🤝 Open to collaborative work on AI, automation, and software engineering projects
 
 ---
 
-## 🧰 Tech Stack
+## Core Strengths
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Area | Focus |
+|------|-------|
+| AI & Automation | LLM integrations, workflow automation, intelligent tools |
+| Backend Development | FastAPI, API design, scalable server-side logic |
+| Cloud & Deployment | Docker, Azure, Vercel, production-ready deployment |
+| Problem Solving | Systems thinking, optimization, clean execution |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-![Profile stats](https://github-stats-extended.vercel.app/api?username=AbdullahProBD&show_icons=true&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117&border_color=30363d)
-![Streak stats](https://streak-stats.demolab.com/?user=AbdullahProBD&background=0d1117&border=30363d&stroke=30363d&ring=6366f1&fire=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=8b949e&dates=8b949e)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AbdullahProBD&layout=compact&title_color=6366f1&text_color=ffffff&bg_color=0d1117&border_color=30363d)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahProBD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullahprobd.github.io/)
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahProBD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahProBD&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahProBD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500" />
+
+</div>
+
+---
+
+## Current Focus
+
+- Building AI-powered tools with real-world utility
+- Designing clean and scalable backend APIs
+- Exploring LLM integrations and automation workflows
+- Improving developer experience through practical software solutions
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/AbdullahProBD" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://abdullahprobd.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:abdullahalmasud.official@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>⚡ Built with passion by AbdullahProBD &nbsp;•&nbsp; © 2026</sub>
+  <img src="https://komarev.com/ghpvc/?username=AbdullahProBD&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <sub>⚡ Crafted with passion by Abdullah Al Masud • © 2026</sub>
+</p>
