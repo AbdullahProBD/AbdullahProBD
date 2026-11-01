@@ -19,8 +19,8 @@
   <a href="https://github.com/AbdullahProBD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:AbdullahProBD@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Proton%20Mail-D14836?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 ## About Me
 
-I am a passionate AI engineering student and backend-focused developer with a strong interest in building reliable, scalable, and intelligent systems. I enjoy turning ideas into production-ready tools using Python, automation workflows, and modern cloud-based deployment patterns.
+I am a passionate AI engineering student and backend-focused developer with a strong interest in building reliable, scalable, and intelligent systems. I enjoy turning ideas into production-ready tools using Python, automation workflows, and modern cloud deployment patterns.
 
 - 🎓 Currently exploring advanced AI workflows and developer tooling
 - 💻 Specializing in Python, FastAPI, backend architecture, and automation
@@ -40,22 +40,32 @@ I am a passionate AI engineering student and backend-focused developer with a st
 
 ---
 
-## Core Strengths
+## ⚡ Live Skills
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Python+%7C+FastAPI+%7C+AI+Automation;Backend+APIs+%7C+Cloud+Deployments;Automation+%7C+Problem+Solving+%7C+Clean+Code" alt="Live Skills" />
+
+</div>
+
+---
+
+## 🧠 Core Strengths
 
 <div align="center">
 
 | Area | Focus |
 |------|-------|
 | AI & Automation | LLM integrations, workflow automation, intelligent tools |
-| Backend Development | FastAPI, API design, scalable server-side logic |
+| Backend Development | FastAPI, API design, scalable backend logic |
 | Cloud & Deployment | Docker, Azure, Vercel, production-ready deployment |
-| Problem Solving | Systems thinking, optimization, clean execution |
+| Problem Solving | System thinking, optimization, and practical execution |
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -75,7 +85,7 @@ I am a passionate AI engineering student and backend-focused developer with a st
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -91,7 +101,7 @@ I am a passionate AI engineering student and backend-focused developer with a st
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
 - Building AI-powered tools with real-world utility
 - Designing clean and scalable backend APIs
@@ -100,7 +110,7 @@ I am a passionate AI engineering student and backend-focused developer with a st
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
@@ -111,7 +121,7 @@ I am a passionate AI engineering student and backend-focused developer with a st
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:AbdullahProBD@proton.me" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Proton%20Mail-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
